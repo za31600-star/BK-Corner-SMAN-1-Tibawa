@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>BK Corner SMAN 1 Tibawa</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>BK CORNER SMAN 1 TIBAWA</h1>
+    <p class="slogan">Bimbingan Tepat, Generasi Hebat</p>
+  </header>
+
+  <section class="jurus">
+    <h2>7 Jurus BK Hebat</h2>
+    <div class="jurus-grid">
+      <div class="card">Kenali Potensi</div>
+      <div class="card">Kelola Emosi</div>
+      <div class="card">Tumbuhkan Resistensi</div>
+      <div class="card">Jaga Konsistensi</div>
+      <div class="card">Jalin Koneksi</div>
+      <div class="card">Bangun Kolaborasi</div>
+      <div class="card">Menata Situasi</div>
+    </div>
+  </section>
+
+  <section class="tambahan">
+    <div class="extra">Poster Bimbingan Konseling</div>
+    <div class="extra">Pohon Kebaikan</div>
+  </section>
+
+  <footer>
+    <p>© 2025 BK Corner SMAN 1 Tibawa</p>
+  </footer>
+</body>
+</html>
